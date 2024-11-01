@@ -1,0 +1,38 @@
+a{
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+}
+tr {
+     border-bottom: unset; 
+}
+p.btn{
+    background-color: unset;
+}
+#rating-popup{position:fixed;margin:0px auto;width:25%;left:0;right:0;top:20%;z-index:1111;background-color:#fff;padding:20px 40px;border-radius:10px;border:2px solid #CCC;}
+.codexworld_rating_widget{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+.codexworld_rating_widget li{
+    line-height: 0px;
+    width: 28px;
+    height: 28px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 2px;
+    list-style: none;
+    float: left;
+    cursor: pointer;
+}
+.codexworld_rating_widget li span{
+    display: none;
+}
+.edit-popup h4 {margin:10px 0 20px;display: inline-block;}
+.edit-popup {background: #fff none repeat scroll 0 0; left: 0; margin: 0 auto; padding: 20px 40px; position: fixed; right: 0;
+    top: 10%; width: 40%; z-index: 22222222;}
+.fade-in-div{background-color: #000;bottom: 0;left: 0; opacity: 0.5; position: fixed;   right: 0;   top: 0; }
+#close, #close-btn{float:right;}
+p.btn a {color: #fff; background: rgb(205,133,63); border-radius: 10px; padding: 10px;border:0px;text-decoration:none;}
+.submit_btn{background: rgb(205,133,63);border-radius:10px;color:#fff;border:0px;padding:10px 0px;text-align: center;cursor: pointer;}
